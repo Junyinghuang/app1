@@ -1,0 +1,3073 @@
+I2C:  setting register 0x3A to 0x 7F FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 32767 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 7F 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 32639 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 7E FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 32511 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 7E 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 32383 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 7D FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 32255 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 7D 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 32127 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 7C FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 31999 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 7C 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 31871 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 7B FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 31743 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 7B 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 31615 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 7A FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 31487 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 7A 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 31359 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 79 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 31231 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 79 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 31103 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 78 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 30975 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 78 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 30847 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 77 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 30719 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 77 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 30591 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 76 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 30463 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 76 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 30335 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 75 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 30207 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 75 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 30079 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 74 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 29951 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 74 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 29823 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 73 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 29695 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 73 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 29567 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 72 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 29439 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 72 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 29311 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 71 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 29183 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 71 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 29055 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 70 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 28927 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 70 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 28799 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 6F FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 28671 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 6F 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 28543 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 6E FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 28415 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 6E 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 28287 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 6D FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 28159 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 6D 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 28031 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 6C FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 27903 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 6C 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 27775 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 6B FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 27647 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 6B 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 27519 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 6A FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 27391 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 6A 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 27263 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 69 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 27135 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 69 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 27007 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 68 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 26879 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 68 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 26751 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 67 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 26623 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 67 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 26495 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 66 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 26367 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 66 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 26239 
+ADC REGISTER -- 0x11FFF  (adc_d: 4095) 
+I2C:  setting register 0x3A to 0x 65 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 26111 
+ADC REGISTER -- 0x10FF0  (adc_d: 4080) 
+I2C:  setting register 0x3A to 0x 65 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 25983 
+ADC REGISTER -- 0x10FFC  (adc_d: 4092) 
+I2C:  setting register 0x3A to 0x 64 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 25855 
+ADC REGISTER -- 0x10FE7  (adc_d: 4071) 
+I2C:  setting register 0x3A to 0x 64 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 25727 
+ADC REGISTER -- 0x10FE1  (adc_d: 4065) 
+I2C:  setting register 0x3A to 0x 63 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 25599 
+ADC REGISTER -- 0x10FCB  (adc_d: 4043) 
+I2C:  setting register 0x3A to 0x 63 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 25471 
+ADC REGISTER -- 0x10FD8  (adc_d: 4056) 
+I2C:  setting register 0x3A to 0x 62 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 25343 
+ADC REGISTER -- 0x10FCC  (adc_d: 4044) 
+I2C:  setting register 0x3A to 0x 62 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 25215 
+ADC REGISTER -- 0x10FB7  (adc_d: 4023) 
+I2C:  setting register 0x3A to 0x 61 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 25087 
+ADC REGISTER -- 0x10FC4  (adc_d: 4036) 
+I2C:  setting register 0x3A to 0x 61 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 24959 
+ADC REGISTER -- 0x10FA5  (adc_d: 4005) 
+I2C:  setting register 0x3A to 0x 60 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 24831 
+ADC REGISTER -- 0x10FA6  (adc_d: 4006) 
+I2C:  setting register 0x3A to 0x 60 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 24703 
+ADC REGISTER -- 0x10F93  (adc_d: 3987) 
+I2C:  setting register 0x3A to 0x 5F FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 24575 
+ADC REGISTER -- 0x10F7B  (adc_d: 3963) 
+I2C:  setting register 0x3A to 0x 5F 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 24447 
+ADC REGISTER -- 0x10F7D  (adc_d: 3965) 
+I2C:  setting register 0x3A to 0x 5E FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 24319 
+ADC REGISTER -- 0x10F6F  (adc_d: 3951) 
+I2C:  setting register 0x3A to 0x 5E 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 24191 
+ADC REGISTER -- 0x10F72  (adc_d: 3954) 
+I2C:  setting register 0x3A to 0x 5D FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 24063 
+ADC REGISTER -- 0x10F5F  (adc_d: 3935) 
+I2C:  setting register 0x3A to 0x 5D 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 23935 
+ADC REGISTER -- 0x10F4F  (adc_d: 3919) 
+I2C:  setting register 0x3A to 0x 5C FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 23807 
+ADC REGISTER -- 0x10F4C  (adc_d: 3916) 
+I2C:  setting register 0x3A to 0x 5C 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 23679 
+ADC REGISTER -- 0x10F4B  (adc_d: 3915) 
+I2C:  setting register 0x3A to 0x 5B FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 23551 
+ADC REGISTER -- 0x10F40  (adc_d: 3904) 
+I2C:  setting register 0x3A to 0x 5B 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 23423 
+ADC REGISTER -- 0x10F2B  (adc_d: 3883) 
+I2C:  setting register 0x3A to 0x 5A FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 23295 
+ADC REGISTER -- 0x10F29  (adc_d: 3881) 
+I2C:  setting register 0x3A to 0x 5A 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 23167 
+ADC REGISTER -- 0x10F16  (adc_d: 3862) 
+I2C:  setting register 0x3A to 0x 59 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 23039 
+ADC REGISTER -- 0x10F09  (adc_d: 3849) 
+I2C:  setting register 0x3A to 0x 59 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 22911 
+ADC REGISTER -- 0x10F05  (adc_d: 3845) 
+I2C:  setting register 0x3A to 0x 58 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 22783 
+ADC REGISTER -- 0x10EFA  (adc_d: 3834) 
+I2C:  setting register 0x3A to 0x 58 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 22655 
+ADC REGISTER -- 0x10EF0  (adc_d: 3824) 
+I2C:  setting register 0x3A to 0x 57 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 22527 
+ADC REGISTER -- 0x10EE4  (adc_d: 3812) 
+I2C:  setting register 0x3A to 0x 57 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 22399 
+ADC REGISTER -- 0x10EE2  (adc_d: 3810) 
+I2C:  setting register 0x3A to 0x 56 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 22271 
+ADC REGISTER -- 0x10EE2  (adc_d: 3810) 
+I2C:  setting register 0x3A to 0x 56 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 22143 
+ADC REGISTER -- 0x10ED2  (adc_d: 3794) 
+I2C:  setting register 0x3A to 0x 55 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 22015 
+ADC REGISTER -- 0x10EC5  (adc_d: 3781) 
+I2C:  setting register 0x3A to 0x 55 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 21887 
+ADC REGISTER -- 0x10EB6  (adc_d: 3766) 
+I2C:  setting register 0x3A to 0x 54 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 21759 
+ADC REGISTER -- 0x10EB4  (adc_d: 3764) 
+I2C:  setting register 0x3A to 0x 54 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 21631 
+ADC REGISTER -- 0x10EA6  (adc_d: 3750) 
+I2C:  setting register 0x3A to 0x 53 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 21503 
+ADC REGISTER -- 0x10E90  (adc_d: 3728) 
+I2C:  setting register 0x3A to 0x 53 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 21375 
+ADC REGISTER -- 0x10E82  (adc_d: 3714) 
+I2C:  setting register 0x3A to 0x 52 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 21247 
+ADC REGISTER -- 0x10E7E  (adc_d: 3710) 
+I2C:  setting register 0x3A to 0x 52 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 21119 
+ADC REGISTER -- 0x10E86  (adc_d: 3718) 
+I2C:  setting register 0x3A to 0x 51 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 20991 
+ADC REGISTER -- 0x10E7E  (adc_d: 3710) 
+I2C:  setting register 0x3A to 0x 51 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 20863 
+ADC REGISTER -- 0x10E60  (adc_d: 3680) 
+I2C:  setting register 0x3A to 0x 50 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 20735 
+ADC REGISTER -- 0x10E61  (adc_d: 3681) 
+I2C:  setting register 0x3A to 0x 50 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 20607 
+ADC REGISTER -- 0x10E62  (adc_d: 3682) 
+I2C:  setting register 0x3A to 0x 4F FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 20479 
+ADC REGISTER -- 0x10E46  (adc_d: 3654) 
+I2C:  setting register 0x3A to 0x 4F 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 20351 
+ADC REGISTER -- 0x10E40  (adc_d: 3648) 
+I2C:  setting register 0x3A to 0x 4E FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 20223 
+ADC REGISTER -- 0x10E2B  (adc_d: 3627) 
+I2C:  setting register 0x3A to 0x 4E 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 20095 
+ADC REGISTER -- 0x10E29  (adc_d: 3625) 
+I2C:  setting register 0x3A to 0x 4D FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 19967 
+ADC REGISTER -- 0x10E30  (adc_d: 3632) 
+I2C:  setting register 0x3A to 0x 4D 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 19839 
+ADC REGISTER -- 0x10E17  (adc_d: 3607) 
+I2C:  setting register 0x3A to 0x 4C FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 19711 
+ADC REGISTER -- 0x10E0C  (adc_d: 3596) 
+I2C:  setting register 0x3A to 0x 4C 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 19583 
+ADC REGISTER -- 0x10E0D  (adc_d: 3597) 
+I2C:  setting register 0x3A to 0x 4B FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 19455 
+ADC REGISTER -- 0x10DFE  (adc_d: 3582) 
+I2C:  setting register 0x3A to 0x 4B 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 19327 
+ADC REGISTER -- 0x10DE3  (adc_d: 3555) 
+I2C:  setting register 0x3A to 0x 4A FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 19199 
+ADC REGISTER -- 0x10DD8  (adc_d: 3544) 
+I2C:  setting register 0x3A to 0x 4A 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 19071 
+ADC REGISTER -- 0x10DDE  (adc_d: 3550) 
+I2C:  setting register 0x3A to 0x 49 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 18943 
+ADC REGISTER -- 0x10DD2  (adc_d: 3538) 
+I2C:  setting register 0x3A to 0x 49 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 18815 
+ADC REGISTER -- 0x10DD0  (adc_d: 3536) 
+I2C:  setting register 0x3A to 0x 48 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 18687 
+ADC REGISTER -- 0x10DC8  (adc_d: 3528) 
+I2C:  setting register 0x3A to 0x 48 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 18559 
+ADC REGISTER -- 0x10DA5  (adc_d: 3493) 
+I2C:  setting register 0x3A to 0x 47 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 18431 
+ADC REGISTER -- 0x10DA1  (adc_d: 3489) 
+I2C:  setting register 0x3A to 0x 47 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 18303 
+ADC REGISTER -- 0x10DA8  (adc_d: 3496) 
+I2C:  setting register 0x3A to 0x 46 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 18175 
+ADC REGISTER -- 0x10D8E  (adc_d: 3470) 
+I2C:  setting register 0x3A to 0x 46 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 18047 
+ADC REGISTER -- 0x10D81  (adc_d: 3457) 
+I2C:  setting register 0x3A to 0x 45 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 17919 
+ADC REGISTER -- 0x10D90  (adc_d: 3472) 
+I2C:  setting register 0x3A to 0x 45 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 17791 
+ADC REGISTER -- 0x10D79  (adc_d: 3449) 
+I2C:  setting register 0x3A to 0x 44 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 17663 
+ADC REGISTER -- 0x10D77  (adc_d: 3447) 
+I2C:  setting register 0x3A to 0x 44 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 17535 
+ADC REGISTER -- 0x10D5D  (adc_d: 3421) 
+I2C:  setting register 0x3A to 0x 43 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 17407 
+ADC REGISTER -- 0x10D57  (adc_d: 3415) 
+I2C:  setting register 0x3A to 0x 43 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 17279 
+ADC REGISTER -- 0x10D46  (adc_d: 3398) 
+I2C:  setting register 0x3A to 0x 42 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 17151 
+ADC REGISTER -- 0x10D49  (adc_d: 3401) 
+I2C:  setting register 0x3A to 0x 42 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 17023 
+ADC REGISTER -- 0x10D51  (adc_d: 3409) 
+I2C:  setting register 0x3A to 0x 41 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 16895 
+ADC REGISTER -- 0x10D2B  (adc_d: 3371) 
+I2C:  setting register 0x3A to 0x 41 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 16767 
+ADC REGISTER -- 0x10D30  (adc_d: 3376) 
+I2C:  setting register 0x3A to 0x 40 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 16639 
+ADC REGISTER -- 0x10D29  (adc_d: 3369) 
+I2C:  setting register 0x3A to 0x 40 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 16511 
+ADC REGISTER -- 0x10D1E  (adc_d: 3358) 
+I2C:  setting register 0x3A to 0x 3F FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 16383 
+ADC REGISTER -- 0x10D0F  (adc_d: 3343) 
+I2C:  setting register 0x3A to 0x 3F 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 16255 
+ADC REGISTER -- 0x10D01  (adc_d: 3329) 
+I2C:  setting register 0x3A to 0x 3E FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 16127 
+ADC REGISTER -- 0x10CF4  (adc_d: 3316) 
+I2C:  setting register 0x3A to 0x 3E 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 15999 
+ADC REGISTER -- 0x10CE4  (adc_d: 3300) 
+I2C:  setting register 0x3A to 0x 3D FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 15871 
+ADC REGISTER -- 0x10CE2  (adc_d: 3298) 
+I2C:  setting register 0x3A to 0x 3D 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 15743 
+ADC REGISTER -- 0x10CDE  (adc_d: 3294) 
+I2C:  setting register 0x3A to 0x 3C FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 15615 
+ADC REGISTER -- 0x10CC8  (adc_d: 3272) 
+I2C:  setting register 0x3A to 0x 3C 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 15487 
+ADC REGISTER -- 0x10CC2  (adc_d: 3266) 
+I2C:  setting register 0x3A to 0x 3B FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 15359 
+ADC REGISTER -- 0x10CBE  (adc_d: 3262) 
+I2C:  setting register 0x3A to 0x 3B 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 15231 
+ADC REGISTER -- 0x10CBF  (adc_d: 3263) 
+I2C:  setting register 0x3A to 0x 3A FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 15103 
+ADC REGISTER -- 0x10CAE  (adc_d: 3246) 
+I2C:  setting register 0x3A to 0x 3A 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 14975 
+ADC REGISTER -- 0x10C99  (adc_d: 3225) 
+I2C:  setting register 0x3A to 0x 39 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 14847 
+ADC REGISTER -- 0x10C95  (adc_d: 3221) 
+I2C:  setting register 0x3A to 0x 39 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 14719 
+ADC REGISTER -- 0x10C8E  (adc_d: 3214) 
+I2C:  setting register 0x3A to 0x 38 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 14591 
+ADC REGISTER -- 0x10C87  (adc_d: 3207) 
+I2C:  setting register 0x3A to 0x 38 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 14463 
+ADC REGISTER -- 0x10C76  (adc_d: 3190) 
+I2C:  setting register 0x3A to 0x 37 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 14335 
+ADC REGISTER -- 0x10C7D  (adc_d: 3197) 
+I2C:  setting register 0x3A to 0x 37 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 14207 
+ADC REGISTER -- 0x10C69  (adc_d: 3177) 
+I2C:  setting register 0x3A to 0x 36 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 14079 
+ADC REGISTER -- 0x10C60  (adc_d: 3168) 
+I2C:  setting register 0x3A to 0x 36 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 13951 
+ADC REGISTER -- 0x10C56  (adc_d: 3158) 
+I2C:  setting register 0x3A to 0x 35 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 13823 
+ADC REGISTER -- 0x10C4C  (adc_d: 3148) 
+I2C:  setting register 0x3A to 0x 35 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 13695 
+ADC REGISTER -- 0x10C3C  (adc_d: 3132) 
+I2C:  setting register 0x3A to 0x 34 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 13567 
+ADC REGISTER -- 0x10C35  (adc_d: 3125) 
+I2C:  setting register 0x3A to 0x 34 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 13439 
+ADC REGISTER -- 0x10C28  (adc_d: 3112) 
+I2C:  setting register 0x3A to 0x 33 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 13311 
+ADC REGISTER -- 0x10C23  (adc_d: 3107) 
+I2C:  setting register 0x3A to 0x 33 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 13183 
+ADC REGISTER -- 0x10C1B  (adc_d: 3099) 
+I2C:  setting register 0x3A to 0x 32 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 13055 
+ADC REGISTER -- 0x10C01  (adc_d: 3073) 
+I2C:  setting register 0x3A to 0x 32 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 12927 
+ADC REGISTER -- 0x10BFF  (adc_d: 3071) 
+I2C:  setting register 0x3A to 0x 31 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 12799 
+ADC REGISTER -- 0x10C16  (adc_d: 3094) 
+I2C:  setting register 0x3A to 0x 31 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 12671 
+ADC REGISTER -- 0x10BE3  (adc_d: 3043) 
+I2C:  setting register 0x3A to 0x 30 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 12543 
+ADC REGISTER -- 0x10BEE  (adc_d: 3054) 
+I2C:  setting register 0x3A to 0x 30 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 12415 
+ADC REGISTER -- 0x10BDE  (adc_d: 3038) 
+I2C:  setting register 0x3A to 0x 2F FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 12287 
+ADC REGISTER -- 0x10BD3  (adc_d: 3027) 
+I2C:  setting register 0x3A to 0x 2F 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 12159 
+ADC REGISTER -- 0x10BD4  (adc_d: 3028) 
+I2C:  setting register 0x3A to 0x 2E FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 12031 
+ADC REGISTER -- 0x10BBE  (adc_d: 3006) 
+I2C:  setting register 0x3A to 0x 2E 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 11903 
+ADC REGISTER -- 0x10BB5  (adc_d: 2997) 
+I2C:  setting register 0x3A to 0x 2D FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 11775 
+ADC REGISTER -- 0x10BB7  (adc_d: 2999) 
+I2C:  setting register 0x3A to 0x 2D 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 11647 
+ADC REGISTER -- 0x10B9F  (adc_d: 2975) 
+I2C:  setting register 0x3A to 0x 2C FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 11519 
+ADC REGISTER -- 0x10B95  (adc_d: 2965) 
+I2C:  setting register 0x3A to 0x 2C 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 11391 
+ADC REGISTER -- 0x10B87  (adc_d: 2951) 
+I2C:  setting register 0x3A to 0x 2B FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 11263 
+ADC REGISTER -- 0x10B74  (adc_d: 2932) 
+I2C:  setting register 0x3A to 0x 2B 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 11135 
+ADC REGISTER -- 0x10B86  (adc_d: 2950) 
+I2C:  setting register 0x3A to 0x 2A FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 11007 
+ADC REGISTER -- 0x10B7E  (adc_d: 2942) 
+I2C:  setting register 0x3A to 0x 2A 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 10879 
+ADC REGISTER -- 0x10B65  (adc_d: 2917) 
+I2C:  setting register 0x3A to 0x 29 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 10751 
+ADC REGISTER -- 0x10B51  (adc_d: 2897) 
+I2C:  setting register 0x3A to 0x 29 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 10623 
+ADC REGISTER -- 0x10B4D  (adc_d: 2893) 
+I2C:  setting register 0x3A to 0x 28 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 10495 
+ADC REGISTER -- 0x10B47  (adc_d: 2887) 
+I2C:  setting register 0x3A to 0x 28 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 10367 
+ADC REGISTER -- 0x10B52  (adc_d: 2898) 
+I2C:  setting register 0x3A to 0x 27 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 10239 
+ADC REGISTER -- 0x10B3D  (adc_d: 2877) 
+I2C:  setting register 0x3A to 0x 27 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 10111 
+ADC REGISTER -- 0x10B30  (adc_d: 2864) 
+I2C:  setting register 0x3A to 0x 26 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 9983 
+ADC REGISTER -- 0x10B23  (adc_d: 2851) 
+I2C:  setting register 0x3A to 0x 26 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 9855 
+ADC REGISTER -- 0x10B19  (adc_d: 2841) 
+I2C:  setting register 0x3A to 0x 25 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 9727 
+ADC REGISTER -- 0x10B10  (adc_d: 2832) 
+I2C:  setting register 0x3A to 0x 25 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 9599 
+ADC REGISTER -- 0x10AF5  (adc_d: 2805) 
+I2C:  setting register 0x3A to 0x 24 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 9471 
+ADC REGISTER -- 0x10AF3  (adc_d: 2803) 
+I2C:  setting register 0x3A to 0x 24 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 9343 
+ADC REGISTER -- 0x10AFE  (adc_d: 2814) 
+I2C:  setting register 0x3A to 0x 23 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 9215 
+ADC REGISTER -- 0x10AE9  (adc_d: 2793) 
+I2C:  setting register 0x3A to 0x 23 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 9087 
+ADC REGISTER -- 0x10ADB  (adc_d: 2779) 
+I2C:  setting register 0x3A to 0x 22 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 8959 
+ADC REGISTER -- 0x10ADF  (adc_d: 2783) 
+I2C:  setting register 0x3A to 0x 22 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 8831 
+ADC REGISTER -- 0x10ACE  (adc_d: 2766) 
+I2C:  setting register 0x3A to 0x 21 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 8703 
+ADC REGISTER -- 0x10ABF  (adc_d: 2751) 
+I2C:  setting register 0x3A to 0x 21 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 8575 
+ADC REGISTER -- 0x10AB8  (adc_d: 2744) 
+I2C:  setting register 0x3A to 0x 20 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 8447 
+ADC REGISTER -- 0x10A9E  (adc_d: 2718) 
+I2C:  setting register 0x3A to 0x 20 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 8319 
+ADC REGISTER -- 0x10A9A  (adc_d: 2714) 
+I2C:  setting register 0x3A to 0x 1F FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 8191 
+ADC REGISTER -- 0x10A95  (adc_d: 2709) 
+I2C:  setting register 0x3A to 0x 1F 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 8063 
+ADC REGISTER -- 0x10A97  (adc_d: 2711) 
+I2C:  setting register 0x3A to 0x 1E FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 7935 
+ADC REGISTER -- 0x10A84  (adc_d: 2692) 
+I2C:  setting register 0x3A to 0x 1E 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 7807 
+ADC REGISTER -- 0x10A78  (adc_d: 2680) 
+I2C:  setting register 0x3A to 0x 1D FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 7679 
+ADC REGISTER -- 0x10A71  (adc_d: 2673) 
+I2C:  setting register 0x3A to 0x 1D 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 7551 
+ADC REGISTER -- 0x10A6D  (adc_d: 2669) 
+I2C:  setting register 0x3A to 0x 1C FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 7423 
+ADC REGISTER -- 0x10A59  (adc_d: 2649) 
+I2C:  setting register 0x3A to 0x 1C 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 7295 
+ADC REGISTER -- 0x10A5E  (adc_d: 2654) 
+I2C:  setting register 0x3A to 0x 1B FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 7167 
+ADC REGISTER -- 0x10A3C  (adc_d: 2620) 
+I2C:  setting register 0x3A to 0x 1B 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 7039 
+ADC REGISTER -- 0x10A37  (adc_d: 2615) 
+I2C:  setting register 0x3A to 0x 1A FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 6911 
+ADC REGISTER -- 0x10A3F  (adc_d: 2623) 
+I2C:  setting register 0x3A to 0x 1A 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 6783 
+ADC REGISTER -- 0x10A2A  (adc_d: 2602) 
+I2C:  setting register 0x3A to 0x 19 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 6655 
+ADC REGISTER -- 0x10A22  (adc_d: 2594) 
+I2C:  setting register 0x3A to 0x 19 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 6527 
+ADC REGISTER -- 0x10A14  (adc_d: 2580) 
+I2C:  setting register 0x3A to 0x 18 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 6399 
+ADC REGISTER -- 0x109FC  (adc_d: 2556) 
+I2C:  setting register 0x3A to 0x 18 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 6271 
+ADC REGISTER -- 0x109FC  (adc_d: 2556) 
+I2C:  setting register 0x3A to 0x 17 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 6143 
+ADC REGISTER -- 0x10A13  (adc_d: 2579) 
+I2C:  setting register 0x3A to 0x 17 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 6015 
+ADC REGISTER -- 0x109FC  (adc_d: 2556) 
+I2C:  setting register 0x3A to 0x 16 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 5887 
+ADC REGISTER -- 0x109EA  (adc_d: 2538) 
+I2C:  setting register 0x3A to 0x 16 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 5759 
+ADC REGISTER -- 0x109CE  (adc_d: 2510) 
+I2C:  setting register 0x3A to 0x 15 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 5631 
+ADC REGISTER -- 0x109C0  (adc_d: 2496) 
+I2C:  setting register 0x3A to 0x 15 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 5503 
+ADC REGISTER -- 0x109C3  (adc_d: 2499) 
+I2C:  setting register 0x3A to 0x 14 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 5375 
+ADC REGISTER -- 0x109C0  (adc_d: 2496) 
+I2C:  setting register 0x3A to 0x 14 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 5247 
+ADC REGISTER -- 0x109AC  (adc_d: 2476) 
+I2C:  setting register 0x3A to 0x 13 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 5119 
+ADC REGISTER -- 0x109AE  (adc_d: 2478) 
+I2C:  setting register 0x3A to 0x 13 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 4991 
+ADC REGISTER -- 0x109A8  (adc_d: 2472) 
+I2C:  setting register 0x3A to 0x 12 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 4863 
+ADC REGISTER -- 0x109A4  (adc_d: 2468) 
+I2C:  setting register 0x3A to 0x 12 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 4735 
+ADC REGISTER -- 0x10983  (adc_d: 2435) 
+I2C:  setting register 0x3A to 0x 11 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 4607 
+ADC REGISTER -- 0x1097E  (adc_d: 2430) 
+I2C:  setting register 0x3A to 0x 11 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 4479 
+ADC REGISTER -- 0x1096A  (adc_d: 2410) 
+I2C:  setting register 0x3A to 0x 10 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 4351 
+ADC REGISTER -- 0x10968  (adc_d: 2408) 
+I2C:  setting register 0x3A to 0x 10 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 4223 
+ADC REGISTER -- 0x1096B  (adc_d: 2411) 
+I2C:  setting register 0x3A to 0x F FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 4095 
+ADC REGISTER -- 0x10959  (adc_d: 2393) 
+I2C:  setting register 0x3A to 0x F 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 3967 
+ADC REGISTER -- 0x10957  (adc_d: 2391) 
+I2C:  setting register 0x3A to 0x E FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 3839 
+ADC REGISTER -- 0x10952  (adc_d: 2386) 
+I2C:  setting register 0x3A to 0x E 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 3711 
+ADC REGISTER -- 0x10938  (adc_d: 2360) 
+I2C:  setting register 0x3A to 0x D FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 3583 
+ADC REGISTER -- 0x10937  (adc_d: 2359) 
+I2C:  setting register 0x3A to 0x D 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 3455 
+ADC REGISTER -- 0x1092E  (adc_d: 2350) 
+I2C:  setting register 0x3A to 0x C FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 3327 
+ADC REGISTER -- 0x1091E  (adc_d: 2334) 
+I2C:  setting register 0x3A to 0x C 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 3199 
+ADC REGISTER -- 0x108FE  (adc_d: 2302) 
+I2C:  setting register 0x3A to 0x B FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 3071 
+ADC REGISTER -- 0x10903  (adc_d: 2307) 
+I2C:  setting register 0x3A to 0x B 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 2943 
+ADC REGISTER -- 0x108F8  (adc_d: 2296) 
+I2C:  setting register 0x3A to 0x A FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 2815 
+ADC REGISTER -- 0x10903  (adc_d: 2307) 
+I2C:  setting register 0x3A to 0x A 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 2687 
+ADC REGISTER -- 0x108EF  (adc_d: 2287) 
+I2C:  setting register 0x3A to 0x 9 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 2559 
+ADC REGISTER -- 0x108EB  (adc_d: 2283) 
+I2C:  setting register 0x3A to 0x 9 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 2431 
+ADC REGISTER -- 0x108DE  (adc_d: 2270) 
+I2C:  setting register 0x3A to 0x 8 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 2303 
+ADC REGISTER -- 0x108D0  (adc_d: 2256) 
+I2C:  setting register 0x3A to 0x 8 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 2175 
+ADC REGISTER -- 0x108C2  (adc_d: 2242) 
+I2C:  setting register 0x3A to 0x 7 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 2047 
+ADC REGISTER -- 0x108BC  (adc_d: 2236) 
+I2C:  setting register 0x3A to 0x 7 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 1919 
+ADC REGISTER -- 0x108B0  (adc_d: 2224) 
+I2C:  setting register 0x3A to 0x 6 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 1791 
+ADC REGISTER -- 0x108AA  (adc_d: 2218) 
+I2C:  setting register 0x3A to 0x 6 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 1663 
+ADC REGISTER -- 0x108A0  (adc_d: 2208) 
+I2C:  setting register 0x3A to 0x 5 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 1535 
+ADC REGISTER -- 0x10892  (adc_d: 2194) 
+I2C:  setting register 0x3A to 0x 5 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 1407 
+ADC REGISTER -- 0x10879  (adc_d: 2169) 
+I2C:  setting register 0x3A to 0x 4 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 1279 
+ADC REGISTER -- 0x10879  (adc_d: 2169) 
+I2C:  setting register 0x3A to 0x 4 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 1151 
+ADC REGISTER -- 0x1086C  (adc_d: 2156) 
+I2C:  setting register 0x3A to 0x 3 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 1023 
+ADC REGISTER -- 0x10867  (adc_d: 2151) 
+I2C:  setting register 0x3A to 0x 3 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 895 
+ADC REGISTER -- 0x10857  (adc_d: 2135) 
+I2C:  setting register 0x3A to 0x 2 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 767 
+ADC REGISTER -- 0x10847  (adc_d: 2119) 
+I2C:  setting register 0x3A to 0x 2 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 639 
+ADC REGISTER -- 0x1083C  (adc_d: 2108) 
+I2C:  setting register 0x3A to 0x 1 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 511 
+ADC REGISTER -- 0x10833  (adc_d: 2099) 
+I2C:  setting register 0x3A to 0x 1 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 383 
+ADC REGISTER -- 0x1082C  (adc_d: 2092) 
+I2C:  setting register 0x3A to 0x 0 FF at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 255 
+ADC REGISTER -- 0x10818  (adc_d: 2072) 
+I2C:  setting register 0x3A to 0x 0 7F at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 127 
+ADC REGISTER -- 0x1080A  (adc_d: 2058) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- 0 
+ADC REGISTER -- 0x1080B  (adc_d: 2059) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 0 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -128 
+ADC REGISTER -- 0x10808  (adc_d: 2056) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 1 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -256 
+ADC REGISTER -- 0x107F9  (adc_d: 2041) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 1 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -384 
+ADC REGISTER -- 0x107E5  (adc_d: 2021) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 2 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -512 
+ADC REGISTER -- 0x107D5  (adc_d: 2005) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 2 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -640 
+ADC REGISTER -- 0x107C5  (adc_d: 1989) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 3 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -768 
+ADC REGISTER -- 0x107B7  (adc_d: 1975) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 3 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -896 
+ADC REGISTER -- 0x107A4  (adc_d: 1956) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 4 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -1024 
+ADC REGISTER -- 0x107A0  (adc_d: 1952) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 4 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -1152 
+ADC REGISTER -- 0x10793  (adc_d: 1939) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 5 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -1280 
+ADC REGISTER -- 0x1078A  (adc_d: 1930) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 5 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -1408 
+ADC REGISTER -- 0x10778  (adc_d: 1912) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 6 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -1536 
+ADC REGISTER -- 0x10770  (adc_d: 1904) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 6 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -1664 
+ADC REGISTER -- 0x10773  (adc_d: 1907) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 7 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -1792 
+ADC REGISTER -- 0x1075D  (adc_d: 1885) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 7 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -1920 
+ADC REGISTER -- 0x10753  (adc_d: 1875) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 8 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -2048 
+ADC REGISTER -- 0x1074A  (adc_d: 1866) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 8 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -2176 
+ADC REGISTER -- 0x10747  (adc_d: 1863) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 9 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -2304 
+ADC REGISTER -- 0x10736  (adc_d: 1846) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 9 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -2432 
+ADC REGISTER -- 0x10732  (adc_d: 1842) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x A 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -2560 
+ADC REGISTER -- 0x1071F  (adc_d: 1823) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x A 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -2688 
+ADC REGISTER -- 0x10716  (adc_d: 1814) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x B 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -2816 
+ADC REGISTER -- 0x10707  (adc_d: 1799) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x B 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -2944 
+ADC REGISTER -- 0x10707  (adc_d: 1799) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x C 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -3072 
+ADC REGISTER -- 0x106F8  (adc_d: 1784) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x C 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -3200 
+ADC REGISTER -- 0x106E8  (adc_d: 1768) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x D 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -3328 
+ADC REGISTER -- 0x106F2  (adc_d: 1778) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x D 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -3456 
+ADC REGISTER -- 0x106DB  (adc_d: 1755) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x E 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -3584 
+ADC REGISTER -- 0x106DA  (adc_d: 1754) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x E 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -3712 
+ADC REGISTER -- 0x106D5  (adc_d: 1749) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x F 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -3840 
+ADC REGISTER -- 0x106C1  (adc_d: 1729) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x F 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -3968 
+ADC REGISTER -- 0x106B3  (adc_d: 1715) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 10 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -4096 
+ADC REGISTER -- 0x106B1  (adc_d: 1713) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 10 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -4224 
+ADC REGISTER -- 0x106A0  (adc_d: 1696) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 11 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -4352 
+ADC REGISTER -- 0x10695  (adc_d: 1685) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 11 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -4480 
+ADC REGISTER -- 0x10697  (adc_d: 1687) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 12 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -4608 
+ADC REGISTER -- 0x10681  (adc_d: 1665) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 12 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -4736 
+ADC REGISTER -- 0x1067A  (adc_d: 1658) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 13 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -4864 
+ADC REGISTER -- 0x1067A  (adc_d: 1658) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 13 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -4992 
+ADC REGISTER -- 0x1066C  (adc_d: 1644) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 14 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -5120 
+ADC REGISTER -- 0x10658  (adc_d: 1624) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 14 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -5248 
+ADC REGISTER -- 0x10649  (adc_d: 1609) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 15 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -5376 
+ADC REGISTER -- 0x10646  (adc_d: 1606) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 15 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -5504 
+ADC REGISTER -- 0x1063E  (adc_d: 1598) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 16 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -5632 
+ADC REGISTER -- 0x10631  (adc_d: 1585) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 16 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -5760 
+ADC REGISTER -- 0x1062A  (adc_d: 1578) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 17 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -5888 
+ADC REGISTER -- 0x10621  (adc_d: 1569) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 17 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -6016 
+ADC REGISTER -- 0x10627  (adc_d: 1575) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 18 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -6144 
+ADC REGISTER -- 0x10614  (adc_d: 1556) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 18 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -6272 
+ADC REGISTER -- 0x10611  (adc_d: 1553) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 19 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -6400 
+ADC REGISTER -- 0x105FA  (adc_d: 1530) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 19 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -6528 
+ADC REGISTER -- 0x105F5  (adc_d: 1525) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 1A 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -6656 
+ADC REGISTER -- 0x105E4  (adc_d: 1508) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 1A 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -6784 
+ADC REGISTER -- 0x105DA  (adc_d: 1498) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 1B 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -6912 
+ADC REGISTER -- 0x105D6  (adc_d: 1494) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 1B 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -7040 
+ADC REGISTER -- 0x105C4  (adc_d: 1476) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 1C 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -7168 
+ADC REGISTER -- 0x105BE  (adc_d: 1470) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 1C 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -7296 
+ADC REGISTER -- 0x105A9  (adc_d: 1449) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 1D 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -7424 
+ADC REGISTER -- 0x105A9  (adc_d: 1449) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 1D 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -7552 
+ADC REGISTER -- 0x105A4  (adc_d: 1444) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 1E 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -7680 
+ADC REGISTER -- 0x10595  (adc_d: 1429) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 1E 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -7808 
+ADC REGISTER -- 0x10595  (adc_d: 1429) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 1F 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -7936 
+ADC REGISTER -- 0x10586  (adc_d: 1414) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 1F 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -8064 
+ADC REGISTER -- 0x10576  (adc_d: 1398) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 20 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -8192 
+ADC REGISTER -- 0x10578  (adc_d: 1400) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 20 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -8320 
+ADC REGISTER -- 0x10564  (adc_d: 1380) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 21 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -8448 
+ADC REGISTER -- 0x1055D  (adc_d: 1373) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 21 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -8576 
+ADC REGISTER -- 0x1054B  (adc_d: 1355) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 22 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -8704 
+ADC REGISTER -- 0x1054A  (adc_d: 1354) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 22 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -8832 
+ADC REGISTER -- 0x1053C  (adc_d: 1340) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 23 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -8960 
+ADC REGISTER -- 0x1053B  (adc_d: 1339) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 23 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -9088 
+ADC REGISTER -- 0x10528  (adc_d: 1320) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 24 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -9216 
+ADC REGISTER -- 0x1051F  (adc_d: 1311) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 24 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -9344 
+ADC REGISTER -- 0x10515  (adc_d: 1301) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 25 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -9472 
+ADC REGISTER -- 0x1050B  (adc_d: 1291) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 25 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -9600 
+ADC REGISTER -- 0x1050E  (adc_d: 1294) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 26 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -9728 
+ADC REGISTER -- 0x104F5  (adc_d: 1269) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 26 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -9856 
+ADC REGISTER -- 0x104F7  (adc_d: 1271) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 27 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -9984 
+ADC REGISTER -- 0x104E1  (adc_d: 1249) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 27 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -10112 
+ADC REGISTER -- 0x104DB  (adc_d: 1243) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 28 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -10240 
+ADC REGISTER -- 0x104CB  (adc_d: 1227) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 28 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -10368 
+ADC REGISTER -- 0x104C8  (adc_d: 1224) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 29 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -10496 
+ADC REGISTER -- 0x104BB  (adc_d: 1211) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 29 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -10624 
+ADC REGISTER -- 0x104AD  (adc_d: 1197) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 2A 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -10752 
+ADC REGISTER -- 0x104AD  (adc_d: 1197) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 2A 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -10880 
+ADC REGISTER -- 0x104A3  (adc_d: 1187) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 2B 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -11008 
+ADC REGISTER -- 0x10490  (adc_d: 1168) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 2B 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -11136 
+ADC REGISTER -- 0x1048A  (adc_d: 1162) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 2C 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -11264 
+ADC REGISTER -- 0x10480  (adc_d: 1152) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 2C 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -11392 
+ADC REGISTER -- 0x10473  (adc_d: 1139) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 2D 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -11520 
+ADC REGISTER -- 0x10465  (adc_d: 1125) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 2D 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -11648 
+ADC REGISTER -- 0x10466  (adc_d: 1126) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 2E 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -11776 
+ADC REGISTER -- 0x1045D  (adc_d: 1117) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 2E 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -11904 
+ADC REGISTER -- 0x1044E  (adc_d: 1102) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 2F 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -12032 
+ADC REGISTER -- 0x10449  (adc_d: 1097) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 2F 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -12160 
+ADC REGISTER -- 0x10441  (adc_d: 1089) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 30 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -12288 
+ADC REGISTER -- 0x1042B  (adc_d: 1067) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 30 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -12416 
+ADC REGISTER -- 0x10428  (adc_d: 1064) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 31 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -12544 
+ADC REGISTER -- 0x1041D  (adc_d: 1053) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 31 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -12672 
+ADC REGISTER -- 0x10415  (adc_d: 1045) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 32 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -12800 
+ADC REGISTER -- 0x1040E  (adc_d: 1038) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 32 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -12928 
+ADC REGISTER -- 0x10405  (adc_d: 1029) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 33 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -13056 
+ADC REGISTER -- 0x10404  (adc_d: 1028) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 33 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -13184 
+ADC REGISTER -- 0x103F8  (adc_d: 1016) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 34 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -13312 
+ADC REGISTER -- 0x103E3  (adc_d: 995) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 34 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -13440 
+ADC REGISTER -- 0x103D9  (adc_d: 985) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 35 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -13568 
+ADC REGISTER -- 0x103D7  (adc_d: 983) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 35 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -13696 
+ADC REGISTER -- 0x103C6  (adc_d: 966) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 36 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -13824 
+ADC REGISTER -- 0x103BC  (adc_d: 956) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 36 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -13952 
+ADC REGISTER -- 0x103B4  (adc_d: 948) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 37 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -14080 
+ADC REGISTER -- 0x103A9  (adc_d: 937) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 37 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -14208 
+ADC REGISTER -- 0x103AF  (adc_d: 943) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 38 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -14336 
+ADC REGISTER -- 0x10397  (adc_d: 919) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 38 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -14464 
+ADC REGISTER -- 0x1038D  (adc_d: 909) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 39 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -14592 
+ADC REGISTER -- 0x10381  (adc_d: 897) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 39 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -14720 
+ADC REGISTER -- 0x1038C  (adc_d: 908) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 3A 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -14848 
+ADC REGISTER -- 0x10365  (adc_d: 869) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 3A 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -14976 
+ADC REGISTER -- 0x10363  (adc_d: 867) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 3B 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -15104 
+ADC REGISTER -- 0x1035A  (adc_d: 858) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 3B 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -15232 
+ADC REGISTER -- 0x10350  (adc_d: 848) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 3C 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -15360 
+ADC REGISTER -- 0x10348  (adc_d: 840) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 3C 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -15488 
+ADC REGISTER -- 0x10340  (adc_d: 832) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 3D 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -15616 
+ADC REGISTER -- 0x10333  (adc_d: 819) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 3D 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -15744 
+ADC REGISTER -- 0x10322  (adc_d: 802) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 3E 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -15872 
+ADC REGISTER -- 0x1032A  (adc_d: 810) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 3E 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -16000 
+ADC REGISTER -- 0x10324  (adc_d: 804) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 3F 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -16128 
+ADC REGISTER -- 0x1030E  (adc_d: 782) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 3F 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -16256 
+ADC REGISTER -- 0x10309  (adc_d: 777) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 40 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -16384 
+ADC REGISTER -- 0x102EE  (adc_d: 750) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 40 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -16512 
+ADC REGISTER -- 0x102EE  (adc_d: 750) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 41 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -16640 
+ADC REGISTER -- 0x102EA  (adc_d: 746) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 41 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -16768 
+ADC REGISTER -- 0x102DD  (adc_d: 733) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 42 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -16896 
+ADC REGISTER -- 0x102D5  (adc_d: 725) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 42 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -17024 
+ADC REGISTER -- 0x102D2  (adc_d: 722) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 43 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -17152 
+ADC REGISTER -- 0x102BD  (adc_d: 701) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 43 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -17280 
+ADC REGISTER -- 0x102B4  (adc_d: 692) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 44 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -17408 
+ADC REGISTER -- 0x102B4  (adc_d: 692) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 44 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -17536 
+ADC REGISTER -- 0x102A1  (adc_d: 673) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 45 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -17664 
+ADC REGISTER -- 0x1029B  (adc_d: 667) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 45 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -17792 
+ADC REGISTER -- 0x10296  (adc_d: 662) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 46 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -17920 
+ADC REGISTER -- 0x1028F  (adc_d: 655) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 46 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -18048 
+ADC REGISTER -- 0x1027F  (adc_d: 639) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 47 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -18176 
+ADC REGISTER -- 0x10270  (adc_d: 624) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 47 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -18304 
+ADC REGISTER -- 0x10269  (adc_d: 617) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 48 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -18432 
+ADC REGISTER -- 0x1025A  (adc_d: 602) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 48 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -18560 
+ADC REGISTER -- 0x10253  (adc_d: 595) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 49 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -18688 
+ADC REGISTER -- 0x1024F  (adc_d: 591) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 49 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -18816 
+ADC REGISTER -- 0x10240  (adc_d: 576) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 4A 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -18944 
+ADC REGISTER -- 0x10237  (adc_d: 567) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 4A 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -19072 
+ADC REGISTER -- 0x10230  (adc_d: 560) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 4B 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -19200 
+ADC REGISTER -- 0x10228  (adc_d: 552) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 4B 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -19328 
+ADC REGISTER -- 0x1021A  (adc_d: 538) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 4C 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -19456 
+ADC REGISTER -- 0x10210  (adc_d: 528) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 4C 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -19584 
+ADC REGISTER -- 0x1020B  (adc_d: 523) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 4D 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -19712 
+ADC REGISTER -- 0x101F9  (adc_d: 505) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 4D 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -19840 
+ADC REGISTER -- 0x101F0  (adc_d: 496) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 4E 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -19968 
+ADC REGISTER -- 0x101EC  (adc_d: 492) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 4E 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -20096 
+ADC REGISTER -- 0x101E1  (adc_d: 481) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 4F 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -20224 
+ADC REGISTER -- 0x101D6  (adc_d: 470) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 4F 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -20352 
+ADC REGISTER -- 0x101CB  (adc_d: 459) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 50 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -20480 
+ADC REGISTER -- 0x101C4  (adc_d: 452) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 50 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -20608 
+ADC REGISTER -- 0x101B9  (adc_d: 441) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 51 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -20736 
+ADC REGISTER -- 0x101AF  (adc_d: 431) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 51 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -20864 
+ADC REGISTER -- 0x101A7  (adc_d: 423) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 52 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -20992 
+ADC REGISTER -- 0x1019B  (adc_d: 411) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 52 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -21120 
+ADC REGISTER -- 0x1019A  (adc_d: 410) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 53 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -21248 
+ADC REGISTER -- 0x1018B  (adc_d: 395) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 53 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -21376 
+ADC REGISTER -- 0x1017F  (adc_d: 383) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 54 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -21504 
+ADC REGISTER -- 0x10176  (adc_d: 374) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 54 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -21632 
+ADC REGISTER -- 0x1017C  (adc_d: 380) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 55 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -21760 
+ADC REGISTER -- 0x1015F  (adc_d: 351) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 55 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -21888 
+ADC REGISTER -- 0x10159  (adc_d: 345) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 56 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -22016 
+ADC REGISTER -- 0x1014F  (adc_d: 335) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 56 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -22144 
+ADC REGISTER -- 0x1013F  (adc_d: 319) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 57 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -22272 
+ADC REGISTER -- 0x10137  (adc_d: 311) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 57 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -22400 
+ADC REGISTER -- 0x10136  (adc_d: 310) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 58 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -22528 
+ADC REGISTER -- 0x10127  (adc_d: 295) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 58 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -22656 
+ADC REGISTER -- 0x1011C  (adc_d: 284) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 59 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -22784 
+ADC REGISTER -- 0x10111  (adc_d: 273) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 59 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -22912 
+ADC REGISTER -- 0x1010E  (adc_d: 270) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 5A 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -23040 
+ADC REGISTER -- 0x10111  (adc_d: 273) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 5A 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -23168 
+ADC REGISTER -- 0x100F5  (adc_d: 245) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 5B 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -23296 
+ADC REGISTER -- 0x100ED  (adc_d: 237) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 5B 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -23424 
+ADC REGISTER -- 0x100E2  (adc_d: 226) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 5C 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -23552 
+ADC REGISTER -- 0x100D9  (adc_d: 217) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 5C 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -23680 
+ADC REGISTER -- 0x100D0  (adc_d: 208) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 5D 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -23808 
+ADC REGISTER -- 0x100C5  (adc_d: 197) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 5D 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -23936 
+ADC REGISTER -- 0x100C5  (adc_d: 197) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 5E 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -24064 
+ADC REGISTER -- 0x100BA  (adc_d: 186) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 5E 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -24192 
+ADC REGISTER -- 0x100A7  (adc_d: 167) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 5F 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -24320 
+ADC REGISTER -- 0x10096  (adc_d: 150) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 5F 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -24448 
+ADC REGISTER -- 0x10092  (adc_d: 146) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 60 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -24576 
+ADC REGISTER -- 0x10098  (adc_d: 152) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 60 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -24704 
+ADC REGISTER -- 0x10079  (adc_d: 121) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 61 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -24832 
+ADC REGISTER -- 0x10089  (adc_d: 137) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 61 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -24960 
+ADC REGISTER -- 0x10074  (adc_d: 116) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 62 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -25088 
+ADC REGISTER -- 0x10068  (adc_d: 104) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 62 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -25216 
+ADC REGISTER -- 0x1005B  (adc_d: 91) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 63 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -25344 
+ADC REGISTER -- 0x10049  (adc_d: 73) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 63 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -25472 
+ADC REGISTER -- 0x10045  (adc_d: 69) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 64 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -25600 
+ADC REGISTER -- 0x1003C  (adc_d: 60) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 64 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -25728 
+ADC REGISTER -- 0x10035  (adc_d: 53) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 65 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -25856 
+ADC REGISTER -- 0x1002A  (adc_d: 42) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 65 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -25984 
+ADC REGISTER -- 0x10027  (adc_d: 39) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 66 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -26112 
+ADC REGISTER -- 0x10019  (adc_d: 25) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 66 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -26240 
+ADC REGISTER -- 0x10020  (adc_d: 32) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 67 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -26368 
+ADC REGISTER -- 0x10001  (adc_d: 1) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 67 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -26496 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 68 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -26624 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 68 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -26752 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 69 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -26880 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 69 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -27008 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 6A 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -27136 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 6A 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -27264 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 6B 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -27392 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 6B 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -27520 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 6C 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -27648 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 6C 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -27776 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 6D 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -27904 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 6D 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -28032 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 6E 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -28160 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 6E 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -28288 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 6F 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -28416 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 6F 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -28544 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 70 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -28672 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 70 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -28800 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 71 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -28928 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 71 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -29056 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 72 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -29184 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 72 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -29312 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 73 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -29440 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 73 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -29568 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 74 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -29696 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 74 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -29824 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 75 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -29952 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 75 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -30080 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 76 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -30208 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 76 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -30336 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 77 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -30464 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 77 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -30592 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 78 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -30720 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 78 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -30848 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 79 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -30976 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 79 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -31104 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 7A 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -31232 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 7A 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -31360 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 7B 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -31488 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 7B 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -31616 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 7C 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -31744 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 7C 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -31872 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 7D 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -32000 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 7D 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -32128 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 7E 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -32256 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 7E 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -32384 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 7F 0 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -32512 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+I2C:  setting register 0x3A to 0x 0 0 at address 0xC...success.
+I2C:  waiting for bus...done.
+I2C:  setting register 0x3A to 0x 7F 80 at address 0xD...success.
+I2C:  waiting for bus...done.
+input -- -32640 
+ADC REGISTER -- 0x11000  (adc_d: 0) 
+
